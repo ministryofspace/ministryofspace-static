@@ -1,1 +1,2 @@
-# ministryofspace-static
+# ministryofspace.github.io
+Ministy of Space
